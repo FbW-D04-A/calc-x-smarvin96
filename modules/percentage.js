@@ -16,3 +16,4 @@ function difference(first, second ) {
 }
 
  
+export {modulo, percentageOf, percentage, difference};
